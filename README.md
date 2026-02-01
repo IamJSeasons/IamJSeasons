@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Odalis 👋
 
-<!--
-**IamJSeasons/IamJSeasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CSC-113 AI Fundamentals
+This repository is part of my CSC-113 coursework and represents the beginning of my professional GitHub portfolio.
 
-Here are some ideas to get you started:
+## About Me
+I am a student learning how to collaborate with AI tools while building a strong foundation in programming and technology. I enjoy creativity, branding, and purpose-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Foo 🎯
+My passion is creative branding and design. I love creating meaningful, faith-based and family-friendly brands that connect emotionally with people.
+
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Using AI tools to support learning and creativity
+
+## Fun Fact
+I enjoy turning ideas into visual brands that mix creativity, faith, and purpose.
+
+## Find Me
+- 📫 Right here on GitHub!
